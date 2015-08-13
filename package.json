@@ -1,0 +1,28 @@
+{
+  "name": "atlassian-jira",
+  "version": "1.0.0",
+  "author": {
+    "name": "justmiles"
+  },
+  "main": "atlassian-jira",
+  "homepage": "https://github.com/justmiles/node-atlassian-jira",
+  "bugs": {
+    "url": "https://github.com/justmiles/node-atlassian-jira/issues"
+  },
+  "description": "Node.js client library to interact with Atlassian Jira",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justmiles/node-atlassian-jira.git"
+  },
+  "engines": {
+    "node": ">=0.6.x"
+  },
+  "keywords": [
+    "atlassian",
+    "jira",
+    "atlassian-jira"
+  ],
+  "dependencies": {
+    "coffee-script": "^1.9.1"
+  }
+}
